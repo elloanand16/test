@@ -11,7 +11,7 @@ import React from "react";
       <div classname="container">
         <div classname="row">
           <div classname="col-lg-12 text-center">
-            <h1 classname="mt-5">Bootstrap 4 start page</h1>
+            <h1 classname="mt-5">ANAND SHARMA</h1>
             <p classname="lead">Start by dragging components to page or double click to edit text</p>
           </div>
         </div>
