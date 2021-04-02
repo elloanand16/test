@@ -7,7 +7,7 @@ import React from "react";
                 <div style={{
                   marginTop: 86,
                   minHeight: "calc(100vh - 467px)",
-                }} dangerouslySetInnerHTML={{__html: `<html><head><link data-vvveb-helpers="" href="http://localhost:3000/assets/vvvebjs-libs/libs/builder/../../css/vvvebjs-editor-helpers.css" rel="stylesheet"></head><body>
+                }} dangerouslySetInnerHTML={{__html: `<html><head><link data-vvveb-helpers="" href="http://localhost:3000/assets/vvvebjs-libs/libs/builder/../../css/vvvebjs-editor-helpers.css" rel="stylesheet"><link data-vvveb-helpers="" href="http://localhost:3000/assets/vvvebjs-libs/libs/builder/../../css/vvvebjs-editor-helpers.css" rel="stylesheet"></head><body>
       <div classname="container">
         <div classname="row">
           <div classname="col-lg-12 text-center">
